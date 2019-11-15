@@ -8,8 +8,11 @@ This app plays beats on clicking on different colors.
 
 ## Files:
 `sounds` folder container beats that are used in this project.
+
 `index.html` contains the structure of the App.
+
 `style.css` has been used to design the App.
+
 `index.js` contains functionality of the App.
 
 ## Usage:
