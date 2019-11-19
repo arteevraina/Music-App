@@ -6,6 +6,9 @@
 body
 {
     font-family: 'Montserrat', sans-serif;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQH3v0eKBwaFSzt4TcAwO8assGI1mqze6ebrDtxUwKMGTW7x38Z");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .app
 {
@@ -20,10 +23,12 @@ header h1
     margin: 50px 0px 30px 0px;
     text-align: center;
     font-size: 40px;
+    color: #60d394;
 }
 header p
 {
     font-size: 20px;
+    color: aqua;
 }
 .pads
 {
