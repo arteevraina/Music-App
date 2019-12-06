@@ -15,6 +15,8 @@ This app plays beats on clicking on different colors.
 
 `index.js` contains functionality of the App.
 
+`data.js` contains functionality on producing sounds by pressing keys on keyboard.
+
 ## Usage:
 1. Fork the repository.
 2. `git clone https://github.com/arteevraina/Music-App.git`
