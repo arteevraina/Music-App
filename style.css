@@ -99,5 +99,6 @@ canvas {
 	width: 100%;
 	height: 100%;
 	background-image: url("https://c1.wallpaperflare.com/preview/1002/922/406/blue-bubbles-underwater-water.jpg");//changed canvas
-	background-size:cover;
+	background-repeat: no-repeat;
+    	background-size: cover;
 }
