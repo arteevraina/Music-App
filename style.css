@@ -18,15 +18,21 @@ body
     justify-content: space-between;
     align-items: center;
 }
+
+header{
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+}
 header h1
 {
-    margin: 50px 0px 30px 0px;
-    text-align: center;
+    margin: 5%;
+    text-align: left;
     font-size: 40px;
     color: #60d394;
 }
 header p
 {
+    margin: 5%;
     font-size: 20px;
     color: aqua;
 }
