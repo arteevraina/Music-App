@@ -5,9 +5,12 @@ This app plays beats on clicking on different colors.
 * HTML
 * CSS
 * Vanilla JS
+* JQuery
 
 ## Files:
-`sounds` folder container beats that are used in this project.
+`sounds` folder contains beats that are used in this project.
+
+`images` folder contains all the images used in this project
 
 `index.html` contains the structure of the App.
 
