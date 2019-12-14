@@ -8,7 +8,7 @@ window.addEventListener("load", () => {
         "#d36060",
         "#c060d3",
         "#d3d160",
-        "#636109",
+        "#00B3FF",
         "#e60808"
     ];
 
@@ -36,3 +36,4 @@ window.addEventListener("load", () => {
             });
         };
 });
+

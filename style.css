@@ -6,9 +6,10 @@
 body
 {
     font-family: 'Montserrat', sans-serif;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQH3v0eKBwaFSzt4TcAwO8assGI1mqze6ebrDtxUwKMGTW7x38Z");
+    background-image: url("./images/back8.png");
     background-repeat: no-repeat;
     background-size: cover;
+    
 }
 .app
 {
@@ -16,55 +17,154 @@ body
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    align-items: center;
+    align-items: center; 
 }
 header h1
 {
     margin: 50px 0px 30px 0px;
     text-align: center;
-    font-size: 40px;
+    font-size: 100px;
     color: #60d394;
+    font-family: 'Permanent Marker', cursive;
+    text-shadow: 10px 10px black;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;
 }
 header p
 {
-    font-size: 20px;
-    color: aqua;
+    font-size: 35px;
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #60d394;
+}
+.para
+{
+    font-size: 25px;
+    padding-left: 60px;
+    color: grey;
 }
 .pads
 {
     width: 100%;
     display: flex;
+    background: transparent;
 }
 /* Down below selects all the divs inside pads */
 .pads > div
 {
     height: 100px;
-    width:  100px;
+    width:  100%;
+    transition-duration: 0.5s;
+    transition-property: transform;
     flex: 1;
+    transform: skewX(20deg) scale(1.1);
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.5);
+    z-index: 100;
+    filter: brightness(150%);
+    text-align: center;
+    line-height: 80px;
+    font-size: 25px;
+    font-family: 'Mansalva', cursive;
+    color: white;
+
+}
+.pads > div:hover
+{
+    transition-duration: 0.5s;
+    transition-property: all;
+    z-index: 150;
+    transform:skewX(20deg) scale(0.9);
+    box-shadow: 10px 10px 10px black;
 }
 .pad1
 {
-    background: #60d394;
+    
+    backdrop-filter:blur(10px);
+    border-color: #00F96D;
+    border-style: dashed;
+    border-width: 5px;
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
+}
+.pad1:hover
+{
+    transition-duration: 1s;
+    transition-property: all;
+    background: #00F96D;
 }
 .pad2
 {
-    background: #d36060;
+    backdrop-filter:blur(10px);
+    border-color: #763333;
+    border-style: dashed;
+    border-width: 5px;
+    //background: rgba(195,63,63,0.8);
+    //background: linear-gradient(to bottom right, #763333, #FF7E7E);
+}
+.pad2:hover
+{
+    transition-duration: 1s;
+    transition-property: all;
+    background: #763333;
 }
 .pad3
 {
-    background: #c060d3;
+    backdrop-filter:blur(10px);
+    border-color: #D612FF;
+    border-style: dashed;
+    border-width: 5px;
+    //background: rgba(214,18,255,0.5);
+    //background: linear-gradient(to bottom right, #622E6D, #D612FF);
+}
+.pad3:hover
+{
+    transition-duration: 1s;
+    transition-property: all;
+    background: #D612FF;
 }
 .pad4
 {
-    background: #d3d160;
+    backdrop-filter:blur(10px);
+    border-color: #FFFC00;
+    border-style: dashed;
+    border-width: 5px;
+    //background: rgba(255,252,0,0.5);
+    //background: linear-gradient(to bottom right, #545317, #FFFC00);
+}
+.pad4:hover
+{
+    transition-duration: 1s;
+    transition-property: all;
+    background: #FFFC00;
 }
 .pad5
 {
-    background: #636109;
+    backdrop-filter:blur(10px);
+    border-color: #00B3FF;
+    border-style: dashed;
+    border-width: 5px;
+    //background: linear-gradient(to bottom right, #021C27, #00B3FF);
+}
+.pad5:hover
+{
+    transition-duration: 1s;
+    transition-property: all;
+    background: #00B3FF;
 }
 .pad6
 {
-    background: #e60808;
+    backdrop-filter:blur(10px);
+    border-color: #FF0000;
+    border-style: dashed;
+    border-width: 5px;
+    //background: linear-gradient(to bottom right, #6C0909, #FF0000);
+}
+.pad6:hover
+{
+    transition-duration: 1s;
+    transition-property: all;
+    background: #FF0000;
 }
 
 @keyframes jump
@@ -93,10 +193,15 @@ header p
     border-radius: 50%;
     bottom: 0%;
     z-index: -1;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    box-shadow: 5px 5px 10px white;
+    filter: blur(3px);
 }
 
 canvas {
 	width: 100%;
-	height: 100%;
-	background: black;
+    backdrop-filter:blur(40px) brightness(200%) contrast(5);
 }
+
