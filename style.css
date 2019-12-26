@@ -166,6 +166,199 @@ header p
     transition-property: all;
     background: #FF0000;
 }
+.pad7
+{
+    
+    backdrop-filter:blur(10px);
+    border-color: #f5ec42;
+    border-style: dashed;
+    border-width: 5px;
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
+}
+.pad7:hover
+{
+    transition-duration: 1s;
+    transition-property: all;
+    background: #f5ec42;
+}
+.pad8
+{
+    
+    backdrop-filter:blur(10px);
+    border-color: #010714;
+    border-style: dashed;
+    border-width: 5px;
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
+}
+.pad8:hover
+{
+    transition-duration: 1s;
+    transition-property: all;
+    background: #010714;
+}
+.pad9
+{
+    
+    backdrop-filter:blur(10px);
+    border-color: #e099a0;
+    border-style: dashed;
+    border-width: 5px;
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
+}
+.pad9:hover
+{
+    transition-duration: 1s;
+    transition-property: all;
+    background: #e099a0;
+}
+.pad10
+{
+    
+    backdrop-filter:blur(10px);
+    border-color: #33de00;
+    border-style: dashed;
+    border-width: 5px;
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
+}
+.pad10:hover
+{
+    transition-duration: 1s;
+    transition-property: all;
+    background: #33de00;
+}
+.pad11
+{
+    
+    backdrop-filter:blur(10px);
+    border-color: #050505;
+    border-style: dashed;
+    border-width: 5px;
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
+}
+.pad11:hover
+{
+    transition-duration: 1s;
+    transition-property: all;
+    background: #050505;
+}
+.pad12
+{
+    
+    backdrop-filter:blur(10px);
+    border-color: #00F96D;
+    border-style: dashed;
+    border-width: 5px;
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
+}
+.pad12:hover
+{
+    transition-duration: 1s;
+    transition-property: all;
+    background: #00F96D;
+}
+
+.pad13
+{
+    
+    backdrop-filter:blur(10px);
+    border-color: #D612FF;
+    border-style: dashed;
+    border-width: 5px;
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
+}
+.pad13:hover
+{
+    transition-duration: 1s;
+    transition-property: all;
+    background: #D612FF;
+}
+.pad14
+{
+    
+    backdrop-filter:blur(10px);
+    border-color: #fff12e;
+    border-style: dashed;
+    border-width: 5px;
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
+}
+.pad14:hover
+{
+    transition-duration: 1s;
+    transition-property: all;
+    background: #fff12e;
+}
+.pad15
+{
+    
+    backdrop-filter:blur(10px);
+    border-color: #FF0000;
+    border-style: dashed;
+    border-width: 5px;
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
+}
+.pad15:hover
+{
+    transition-duration: 1s;
+    transition-property: all;
+    background: #FF0000;
+}
+.pad16
+{
+    
+    backdrop-filter:blur(10px);
+    border-color: #2954c2;
+    border-style: dashed;
+    border-width: 5px;
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
+}
+.pad16:hover
+{
+    transition-duration: 1s;
+    transition-property: all;
+    background: #2954c2;
+}
+.pad17
+{
+    
+    backdrop-filter:blur(10px);
+    border-color: #e099a0;
+    border-style: dashed;
+    border-width: 5px;
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
+}
+.pad17:hover
+{
+    transition-duration: 1s;
+    transition-property: all;
+    background: #e099a0;
+}
+.pad18
+{
+    
+    backdrop-filter:blur(10px);
+    border-color: #D612FF;
+    border-style: dashed;
+    border-width: 5px;
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
+}
+.pad18:hover
+{
+    transition-duration: 1s;
+    transition-property: all;
+    background: #0000ff6D;
+}
 
 @keyframes jump
 {
