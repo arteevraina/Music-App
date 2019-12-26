@@ -1,5 +1,5 @@
 # Project Music-App
-This project is created during KWoC 2019.
+This project is being developed during KWoC 2019.
 
 ## Project Structure 
 
