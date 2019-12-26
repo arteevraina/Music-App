@@ -3,7 +3,7 @@ This project is created during KWoC 2019.
 
 ## Project Structure 
 
-This is a simple WebApp which plays beats on pressing any key of the keyboard or by taping the switched displayed.
+This is a simple WebApp which plays beats on pressing any key of the keyboard or by taping the switches displayed.
  
 ![Screenshot (116)](https://user-images.githubusercontent.com/53342416/71176414-dbb59680-228f-11ea-8093-76c9e194fa85.png)
 
