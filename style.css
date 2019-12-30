@@ -6,9 +6,9 @@
 body
 {
     font-family: 'Montserrat', sans-serif;
-    background-image: url("./images/back8.png");
+    background-image: url("https://images.unsplash.com/photo-1541447554742-4b7eff548fe1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 110% 100%;
     
 }
 .app
@@ -24,7 +24,7 @@ header h1
     margin: 50px 0px 30px 0px;
     text-align: center;
     font-size: 100px;
-    color: #60d394;
+    color:transparent;
     font-family: 'Permanent Marker', cursive;
     text-shadow: 10px 10px black;
     -webkit-text-stroke-width: 2px;
@@ -34,6 +34,7 @@ header p
 {
     font-size: 35px;
     color: white;
+    text-align: center;
     font-family: 'Permanent Marker', cursive;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #60d394;
@@ -42,7 +43,7 @@ header p
 {
     font-size: 25px;
     padding-left: 60px;
-    color: grey;
+    color: whitesmoke;
 }
 .pads
 {
@@ -81,8 +82,8 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: #00F96D;
-    border-style: dashed;
+    border-color: black;
+    border-style: solid;
     border-width: 5px;
     /*background: rgba(0,249,109,0.8);
     //background: linear-gradient(to bottom right, #007935, #00F96D);*/
@@ -96,8 +97,8 @@ header p
 .pad2
 {
     backdrop-filter:blur(10px);
-    border-color: #763333;
-    border-style: dashed;
+    border-color:black;
+    border-style: solid;
     border-width: 5px;
     /*background: rgba(195,63,63,0.8);
     //background: linear-gradient(to bottom right, #763333, #FF7E7E);*/
@@ -111,8 +112,8 @@ header p
 .pad3
 {
     backdrop-filter:blur(10px);
-    border-color: #D612FF;
-    border-style: dashed;
+    border-color:black;
+    border-style: solid;
     border-width: 5px;
     /*background: rgba(214,18,255,0.5);
     //background: linear-gradient(to bottom right, #622E6D, #D612FF);*/
@@ -126,8 +127,8 @@ header p
 .pad4
 {
     backdrop-filter:blur(10px);
-    border-color: #FFFC00;
-    border-style: dashed;
+    border-color: black;
+    border-style: solid;
     border-width: 5px;
     /*background: rgba(255,252,0,0.5);
     //background: linear-gradient(to bottom right, #545317, #FFFC00);*/
@@ -141,8 +142,8 @@ header p
 .pad5
 {
     backdrop-filter:blur(10px);
-    border-color: #00B3FF;
-    border-style: dashed;
+    border-color:black;
+    border-style: solid;
     border-width: 5px;
     /*background: linear-gradient(to bottom right, #021C27, #00B3FF);*/
 }
@@ -155,8 +156,8 @@ header p
 .pad6
 {
     backdrop-filter:blur(10px);
-    border-color: #FF0000;
-    border-style: dashed;
+    border-color: black;
+    border-style: solid;
     border-width: 5px;
     /*background: linear-gradient(to bottom right, #6C0909, #FF0000);*/
 }
@@ -170,8 +171,8 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: #f5ec42;
-    border-style: dashed;
+    border-color: black;
+    border-style: solid;
     border-width: 5px;
     /*background: rgba(0,249,109,0.8);
     //background: linear-gradient(to bottom right, #007935, #00F96D);*/
@@ -186,8 +187,8 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: #010714;
-    border-style: dashed;
+    border-color: black;
+    border-style: solid;
     border-width: 5px;
     /*background: rgba(0,249,109,0.8);
     //background: linear-gradient(to bottom right, #007935, #00F96D);*/
@@ -202,8 +203,8 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: #e099a0;
-    border-style: dashed;
+    border-color:black;
+    border-style: solid;
     border-width: 5px;
     /*background: rgba(0,249,109,0.8);
     //background: linear-gradient(to bottom right, #007935, #00F96D);*/
@@ -218,8 +219,8 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: #33de00;
-    border-style: dashed;
+    border-color: black;
+    border-style: solid;
     border-width: 5px;
     /*background: rgba(0,249,109,0.8);
     //background: linear-gradient(to bottom right, #007935, #00F96D);*/
@@ -234,8 +235,8 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: #050505;
-    border-style: dashed;
+    border-color:black;
+    border-style: solid;
     border-width: 5px;
     /*background: rgba(0,249,109,0.8);
     //background: linear-gradient(to bottom right, #007935, #00F96D);*/
@@ -250,8 +251,8 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: #00F96D;
-    border-style: dashed;
+    border-color: black;
+    border-style: solid;
     border-width: 5px;
     /*background: rgba(0,249,109,0.8);
     //background: linear-gradient(to bottom right, #007935, #00F96D);*/
@@ -267,8 +268,8 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: #D612FF;
-    border-style: dashed;
+    border-color: black;
+    border-style: solid;
     border-width: 5px;
     /*background: rgba(0,249,109,0.8);
     //background: linear-gradient(to bottom right, #007935, #00F96D);*/
@@ -283,8 +284,8 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: #fff12e;
-    border-style: dashed;
+    border-color:black;
+    border-style: solid;
     border-width: 5px;
     /*background: rgba(0,249,109,0.8);
     //background: linear-gradient(to bottom right, #007935, #00F96D);*/
@@ -299,8 +300,8 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: #FF0000;
-    border-style: dashed;
+    border-color: black;
+    border-style: solid;
     border-width: 5px;
     /*background: rgba(0,249,109,0.8);
     //background: linear-gradient(to bottom right, #007935, #00F96D);*/
@@ -315,8 +316,8 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: #2954c2;
-    border-style: dashed;
+    border-color:black;
+    border-style: solid;
     border-width: 5px;
     /*background: rgba(0,249,109,0.8);
     //background: linear-gradient(to bottom right, #007935, #00F96D);*/
@@ -331,8 +332,8 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: #e099a0;
-    border-style: dashed;
+    border-color: black;
+    border-style: solid;
     border-width: 5px;
     /*background: rgba(0,249,109,0.8);
     //background: linear-gradient(to bottom right, #007935, #00F96D);*/
@@ -347,8 +348,8 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: #D612FF;
-    border-style: dashed;
+    border-color: black;
+    border-style: solid;
     border-width: 5px;
     /*background: rgba(0,249,109,0.8);
     /background: linear-gradient(to bottom right, #007935, #00F96D);*/
@@ -395,7 +396,7 @@ header p
 
 canvas {
 	width: 100%;
-    backdrop-filter:blur(40px) brightness(200%) contrast(5);
+    /*backdrop-filter:blur(40px) brightness(200%) contrast(5);*/
     position: absolute;
     top:0;
     left:0;
