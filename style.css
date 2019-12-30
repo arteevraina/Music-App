@@ -84,8 +84,8 @@ header p
     border-color: #00F96D;
     border-style: dashed;
     border-width: 5px;
-    //background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);
+    /*background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
 }
 .pad1:hover
 {
@@ -99,8 +99,8 @@ header p
     border-color: #763333;
     border-style: dashed;
     border-width: 5px;
-    //background: rgba(195,63,63,0.8);
-    //background: linear-gradient(to bottom right, #763333, #FF7E7E);
+    /*background: rgba(195,63,63,0.8);
+    //background: linear-gradient(to bottom right, #763333, #FF7E7E);*/
 }
 .pad2:hover
 {
@@ -114,8 +114,8 @@ header p
     border-color: #D612FF;
     border-style: dashed;
     border-width: 5px;
-    //background: rgba(214,18,255,0.5);
-    //background: linear-gradient(to bottom right, #622E6D, #D612FF);
+    /*background: rgba(214,18,255,0.5);
+    //background: linear-gradient(to bottom right, #622E6D, #D612FF);*/
 }
 .pad3:hover
 {
@@ -129,8 +129,8 @@ header p
     border-color: #FFFC00;
     border-style: dashed;
     border-width: 5px;
-    //background: rgba(255,252,0,0.5);
-    //background: linear-gradient(to bottom right, #545317, #FFFC00);
+    /*background: rgba(255,252,0,0.5);
+    //background: linear-gradient(to bottom right, #545317, #FFFC00);*/
 }
 .pad4:hover
 {
@@ -144,7 +144,7 @@ header p
     border-color: #00B3FF;
     border-style: dashed;
     border-width: 5px;
-    //background: linear-gradient(to bottom right, #021C27, #00B3FF);
+    /*background: linear-gradient(to bottom right, #021C27, #00B3FF);*/
 }
 .pad5:hover
 {
@@ -158,7 +158,7 @@ header p
     border-color: #FF0000;
     border-style: dashed;
     border-width: 5px;
-    //background: linear-gradient(to bottom right, #6C0909, #FF0000);
+    /*background: linear-gradient(to bottom right, #6C0909, #FF0000);*/
 }
 .pad6:hover
 {
@@ -173,8 +173,8 @@ header p
     border-color: #f5ec42;
     border-style: dashed;
     border-width: 5px;
-    //background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);
+    /*background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
 }
 .pad7:hover
 {
@@ -189,8 +189,8 @@ header p
     border-color: #010714;
     border-style: dashed;
     border-width: 5px;
-    //background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);
+    /*background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
 }
 .pad8:hover
 {
@@ -205,8 +205,8 @@ header p
     border-color: #e099a0;
     border-style: dashed;
     border-width: 5px;
-    //background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);
+    /*background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
 }
 .pad9:hover
 {
@@ -221,8 +221,8 @@ header p
     border-color: #33de00;
     border-style: dashed;
     border-width: 5px;
-    //background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);
+    /*background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
 }
 .pad10:hover
 {
@@ -237,8 +237,8 @@ header p
     border-color: #050505;
     border-style: dashed;
     border-width: 5px;
-    //background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);
+    /*background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
 }
 .pad11:hover
 {
@@ -253,8 +253,8 @@ header p
     border-color: #00F96D;
     border-style: dashed;
     border-width: 5px;
-    //background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);
+    /*background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
 }
 .pad12:hover
 {
@@ -270,8 +270,8 @@ header p
     border-color: #D612FF;
     border-style: dashed;
     border-width: 5px;
-    //background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);
+    /*background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
 }
 .pad13:hover
 {
@@ -286,8 +286,8 @@ header p
     border-color: #fff12e;
     border-style: dashed;
     border-width: 5px;
-    //background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);
+    /*background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
 }
 .pad14:hover
 {
@@ -302,8 +302,8 @@ header p
     border-color: #FF0000;
     border-style: dashed;
     border-width: 5px;
-    //background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);
+    /*background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
 }
 .pad15:hover
 {
@@ -318,8 +318,8 @@ header p
     border-color: #2954c2;
     border-style: dashed;
     border-width: 5px;
-    //background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);
+    /*background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
 }
 .pad16:hover
 {
@@ -334,8 +334,8 @@ header p
     border-color: #e099a0;
     border-style: dashed;
     border-width: 5px;
-    //background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);
+    /*background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
 }
 .pad17:hover
 {
@@ -350,8 +350,8 @@ header p
     border-color: #D612FF;
     border-style: dashed;
     border-width: 5px;
-    //background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);
+    /*background: rgba(0,249,109,0.8);
+    /background: linear-gradient(to bottom right, #007935, #00F96D);*/
 }
 .pad18:hover
 {
@@ -396,5 +396,10 @@ header p
 canvas {
 	width: 100%;
     backdrop-filter:blur(40px) brightness(200%) contrast(5);
+    position: absolute;
+    top:0;
+    left:0;
+    margin: 0;
+
 }
 
