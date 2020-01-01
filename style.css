@@ -392,9 +392,13 @@ header p
     box-shadow: 5px 5px 10px white;
     filter: blur(3px);
 }
-
 canvas {
 	width: 100%;
-    backdrop-filter:blur(40px) brightness(200%) contrast(5);
+    /*backdrop-filter:blur(40px) brightness(200%) contrast(5);*/
+    position: absolute;
+    top:0;
+    left:0;
+    margin: 0;
+
 }
 
