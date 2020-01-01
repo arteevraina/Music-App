@@ -6,9 +6,9 @@
 body
 {
     font-family: 'Montserrat', sans-serif;
-    background-image: url("https://images.unsplash.com/photo-1541447554742-4b7eff548fe1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+    background-image: url("./images/back8.png");
     background-repeat: no-repeat;
-    background-size: 110% 100%;
+    background-size: cover;
     
 }
 .app
@@ -24,7 +24,7 @@ header h1
     margin: 50px 0px 30px 0px;
     text-align: center;
     font-size: 100px;
-    color:transparent;
+    color: #60d394;
     font-family: 'Permanent Marker', cursive;
     text-shadow: 10px 10px black;
     -webkit-text-stroke-width: 2px;
@@ -34,7 +34,6 @@ header p
 {
     font-size: 35px;
     color: white;
-    text-align: center;
     font-family: 'Permanent Marker', cursive;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #60d394;
@@ -43,7 +42,7 @@ header p
 {
     font-size: 25px;
     padding-left: 60px;
-    color: whitesmoke;
+    color: grey;
 }
 .pads
 {
@@ -82,11 +81,11 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: black;
-    border-style: solid;
+    border-color: #00F96D;
+    border-style: dashed;
     border-width: 5px;
-    /*background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
 }
 .pad1:hover
 {
@@ -97,11 +96,11 @@ header p
 .pad2
 {
     backdrop-filter:blur(10px);
-    border-color:black;
-    border-style: solid;
+    border-color: #763333;
+    border-style: dashed;
     border-width: 5px;
-    /*background: rgba(195,63,63,0.8);
-    //background: linear-gradient(to bottom right, #763333, #FF7E7E);*/
+    //background: rgba(195,63,63,0.8);
+    //background: linear-gradient(to bottom right, #763333, #FF7E7E);
 }
 .pad2:hover
 {
@@ -112,11 +111,11 @@ header p
 .pad3
 {
     backdrop-filter:blur(10px);
-    border-color:black;
-    border-style: solid;
+    border-color: #D612FF;
+    border-style: dashed;
     border-width: 5px;
-    /*background: rgba(214,18,255,0.5);
-    //background: linear-gradient(to bottom right, #622E6D, #D612FF);*/
+    //background: rgba(214,18,255,0.5);
+    //background: linear-gradient(to bottom right, #622E6D, #D612FF);
 }
 .pad3:hover
 {
@@ -127,11 +126,11 @@ header p
 .pad4
 {
     backdrop-filter:blur(10px);
-    border-color: black;
-    border-style: solid;
+    border-color: #FFFC00;
+    border-style: dashed;
     border-width: 5px;
-    /*background: rgba(255,252,0,0.5);
-    //background: linear-gradient(to bottom right, #545317, #FFFC00);*/
+    //background: rgba(255,252,0,0.5);
+    //background: linear-gradient(to bottom right, #545317, #FFFC00);
 }
 .pad4:hover
 {
@@ -142,10 +141,10 @@ header p
 .pad5
 {
     backdrop-filter:blur(10px);
-    border-color:black;
-    border-style: solid;
+    border-color: #00B3FF;
+    border-style: dashed;
     border-width: 5px;
-    /*background: linear-gradient(to bottom right, #021C27, #00B3FF);*/
+    //background: linear-gradient(to bottom right, #021C27, #00B3FF);
 }
 .pad5:hover
 {
@@ -156,10 +155,10 @@ header p
 .pad6
 {
     backdrop-filter:blur(10px);
-    border-color: black;
-    border-style: solid;
+    border-color: #FF0000;
+    border-style: dashed;
     border-width: 5px;
-    /*background: linear-gradient(to bottom right, #6C0909, #FF0000);*/
+    //background: linear-gradient(to bottom right, #6C0909, #FF0000);
 }
 .pad6:hover
 {
@@ -171,11 +170,11 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: black;
-    border-style: solid;
+    border-color: #f5ec42;
+    border-style: dashed;
     border-width: 5px;
-    /*background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
 }
 .pad7:hover
 {
@@ -187,11 +186,11 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: black;
-    border-style: solid;
+    border-color: #010714;
+    border-style: dashed;
     border-width: 5px;
-    /*background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
 }
 .pad8:hover
 {
@@ -203,11 +202,11 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color:black;
-    border-style: solid;
+    border-color: #e099a0;
+    border-style: dashed;
     border-width: 5px;
-    /*background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
 }
 .pad9:hover
 {
@@ -219,11 +218,11 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: black;
-    border-style: solid;
+    border-color: #33de00;
+    border-style: dashed;
     border-width: 5px;
-    /*background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
 }
 .pad10:hover
 {
@@ -235,11 +234,11 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color:black;
-    border-style: solid;
+    border-color: #050505;
+    border-style: dashed;
     border-width: 5px;
-    /*background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
 }
 .pad11:hover
 {
@@ -251,11 +250,11 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: black;
-    border-style: solid;
+    border-color: #00F96D;
+    border-style: dashed;
     border-width: 5px;
-    /*background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
 }
 .pad12:hover
 {
@@ -268,11 +267,11 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: black;
-    border-style: solid;
+    border-color: #D612FF;
+    border-style: dashed;
     border-width: 5px;
-    /*background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
 }
 .pad13:hover
 {
@@ -284,11 +283,11 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color:black;
-    border-style: solid;
+    border-color: #fff12e;
+    border-style: dashed;
     border-width: 5px;
-    /*background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
 }
 .pad14:hover
 {
@@ -300,11 +299,11 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: black;
-    border-style: solid;
+    border-color: #FF0000;
+    border-style: dashed;
     border-width: 5px;
-    /*background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
 }
 .pad15:hover
 {
@@ -316,11 +315,11 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color:black;
-    border-style: solid;
+    border-color: #2954c2;
+    border-style: dashed;
     border-width: 5px;
-    /*background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
 }
 .pad16:hover
 {
@@ -332,11 +331,11 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: black;
-    border-style: solid;
+    border-color: #e099a0;
+    border-style: dashed;
     border-width: 5px;
-    /*background: rgba(0,249,109,0.8);
-    //background: linear-gradient(to bottom right, #007935, #00F96D);*/
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
 }
 .pad17:hover
 {
@@ -348,11 +347,11 @@ header p
 {
     
     backdrop-filter:blur(10px);
-    border-color: black;
-    border-style: solid;
+    border-color: #D612FF;
+    border-style: dashed;
     border-width: 5px;
-    /*background: rgba(0,249,109,0.8);
-    /background: linear-gradient(to bottom right, #007935, #00F96D);*/
+    //background: rgba(0,249,109,0.8);
+    //background: linear-gradient(to bottom right, #007935, #00F96D);
 }
 .pad18:hover
 {
@@ -393,7 +392,6 @@ header p
     box-shadow: 5px 5px 10px white;
     filter: blur(3px);
 }
-
 canvas {
 	width: 100%;
     /*backdrop-filter:blur(40px) brightness(200%) contrast(5);*/
